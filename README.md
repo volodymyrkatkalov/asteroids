@@ -1,4 +1,6 @@
 # Asteroids Clone
+![Game Screenshot](./docs/screenshot.png)
+
 A TypeScript-based remake of the classic Asteroids game using Phaser 3, featuring a player-controlled spaceship, asteroids, bullet firing, and collision detection. This project uses Vite for development and builds, TypeScript for type safety, and ESLint/Prettier for code quality.
 
 ## Overview
